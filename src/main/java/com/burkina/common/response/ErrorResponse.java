@@ -1,4 +1,4 @@
-package com.burkina.response;
+package com.burkina.common.response;
 
 import lombok.Builder;
 

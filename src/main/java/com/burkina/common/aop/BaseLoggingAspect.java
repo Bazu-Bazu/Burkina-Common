@@ -1,4 +1,4 @@
-package com.burkina.aop;
+package com.burkina.common.aop;
 
 import jakarta.persistence.Entity;
 import lombok.extern.log4j.Log4j2;

@@ -1,6 +1,6 @@
-package com.burkina.mapper;
+package com.burkina.common.mapper;
 
-import com.burkina.response.ErrorResponse;
+import com.burkina.common.response.ErrorResponse;
 
 import java.time.Instant;
 import java.util.concurrent.CompletionException;
