@@ -1,4 +1,4 @@
-package com.burkina.common.dto.event;
+package com.burkina.common.dto.event.marketplace.product;
 
 import lombok.Builder;
 

@@ -1,4 +1,4 @@
-package com.burkina.common.dto.event;
+package com.burkina.common.dto.event.user;
 
 import lombok.Builder;
 
