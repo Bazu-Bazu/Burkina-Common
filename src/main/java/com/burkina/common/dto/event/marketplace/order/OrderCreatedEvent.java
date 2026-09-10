@@ -6,5 +6,6 @@ import lombok.Builder;
 public record OrderCreatedEvent(
         Long orderId,
         Long userId,
-        Long sagaId
+        Long sagaId,
+        Long reservationId
 ) {}
