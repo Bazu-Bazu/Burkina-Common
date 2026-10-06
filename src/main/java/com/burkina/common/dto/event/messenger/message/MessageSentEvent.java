@@ -5,6 +5,7 @@ import com.burkina.common.enums.messenger.MessageType;
 import lombok.Builder;
 
 import java.time.Instant;
+import java.util.Set;
 
 @Builder
 public record MessageSentEvent(
@@ -15,5 +16,6 @@ public record MessageSentEvent(
         Long mediaId,
         Long chatId,
         ChatType chatType,
-        Long userId
+        Long userId,
+        Set<Long> userIds
 ) {}
